@@ -3,6 +3,7 @@
 
 typedef struct node{
     int data;
+    int value;
     struct node *link;
 }nd;
 
